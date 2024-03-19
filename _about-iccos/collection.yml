@@ -1,0 +1,4 @@
+collections:
+  about-iccos:
+    output: true
+    order: []
