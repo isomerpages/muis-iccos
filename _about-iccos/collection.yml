@@ -1,4 +1,5 @@
 collections:
   about-iccos:
     output: true
-    order: []
+    order:
+      - ICCOS.md
